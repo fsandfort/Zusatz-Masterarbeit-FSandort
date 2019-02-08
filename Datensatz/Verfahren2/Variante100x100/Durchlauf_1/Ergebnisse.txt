@@ -1,0 +1,16 @@
+File: ../arraylist_v2.txt
+Result:
+Mean: 38907.0
+-----
+File: ../object_v2.txt
+Result:
+Mean: 1.5713541E7
+-----
+File: ../path_v2.txt
+Result:
+Mean: 22360.0
+-----
+File: ../hash_v2.txt
+Result:
+Mean: 117679.0
+-----
