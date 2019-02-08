@@ -1,0 +1,49 @@
+Kompilieren 2018-11-26 17:08:25
+Test startet!
+Test beendet!
+2018-11-26 17:42:39
+Kompilieren 2018-11-26 17:42:39
+Test startet!
+Test beendet!
+2018-11-26 18:17:06
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 18:17:06
+Test startet!
+Test beendet!
+2018-11-26 18:51:22
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 18:51:22
+Test startet!
+Test beendet!
+2018-11-26 19:25:38
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 19:25:38
+Test startet!
+Test beendet!
+2018-11-26 19:59:46
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 19:59:46
+Test startet!
+Test beendet!
+2018-11-26 20:34:06
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 20:34:06
+Test startet!
+Test beendet!
+2018-11-26 21:08:20
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 21:08:20
+Test startet!
+Test beendet!
+2018-11-26 21:42:37
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 21:42:37
+Test startet!
+Test beendet!
+2018-11-26 22:16:44
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+Kompilieren 2018-11-26 22:16:44
+Test startet!
+Test beendet!
+2018-11-26 22:50:57
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
