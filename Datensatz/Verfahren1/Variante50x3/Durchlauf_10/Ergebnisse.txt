@@ -1,0 +1,20 @@
+File: ../arraylist.txt
+Result:
+Mean: 18933.0
+Standard Deviation: 1629.0Confidence Interval: [18481.46423695127;19384.53576304873]
+-----
+File: ../object.txt
+Result:
+Mean: 2.0510077E7
+Standard Deviation: 159201.0Confidence Interval: [2.04659487341847E7;2.05542052658153E7]
+-----
+File: ../path.txt
+Result:
+Mean: 12129.0
+Standard Deviation: 89.0Confidence Interval: [12104.330458617964;12153.669541382036]
+-----
+File: ../hash.txt
+Result:
+Mean: 56798.0
+Standard Deviation: 3162.0Confidence Interval: [55921.53831629215;57674.46168370785]
+-----
