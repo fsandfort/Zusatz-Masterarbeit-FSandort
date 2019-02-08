@@ -1,0 +1,539 @@
+17139
+16318371
+12364
+97831
+17084
+16576806
+12247
+97037
+17129
+16394497
+12217
+97016
+17054
+16270074
+12158
+97008
+17148
+15931032
+12244
+97034
+17057
+16090917
+12200
+97216
+17126
+16128682
+12254
+96994
+17291
+16464460
+12230
+97230
+17136
+16264650
+12170
+62476
+17093
+16092143
+12184
+98408
+Startime: 2018-10-22 14:03:50
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 14:31:38
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17056
+16269939
+12146
+97258
+17107
+15729080
+12283
+97251
+17116
+16534112
+12194
+97166
+17139
+16363989
+12289
+102647
+17069
+16146132
+12209
+98112
+17176
+16400345
+12238
+97154
+17090
+16214182
+12289
+62843
+17132
+16379695
+12299
+102761
+17310
+16357256
+12141
+62791
+17116
+16336717
+12199
+98697
+Startime: 2018-10-22 14:31:38
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 14:59:30
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17305
+16095713
+12349
+97641
+17177
+16588706
+12284
+97086
+17298
+15977329
+12248
+98823
+17132
+16469400
+12280
+97249
+17099
+16442315
+12308
+62676
+17026
+16233982
+12274
+62196
+17131
+16281488
+12254
+97017
+17052
+16249564
+12300
+97050
+17270
+16332650
+12189
+97458
+17069
+16209399
+12186
+62845
+Startime: 2018-10-22 14:59:30
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 15:27:28
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17048
+16422386
+12285
+97292
+17068
+16340450
+12329
+62555
+17081
+15729259
+12286
+103029
+17280
+16387709
+12196
+98399
+17130
+16261155
+12211
+97787
+17150
+16559176
+12196
+92739
+17104
+16453398
+12222
+96876
+17193
+16376259
+12303
+97000
+17049
+16283803
+12234
+96758
+17078
+16303240
+12217
+96353
+Startime: 2018-10-22 15:27:28
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 15:55:20
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17185
+16288796
+12261
+98128
+17168
+16353400
+12281
+98297
+17184
+16181788
+12260
+97192
+17109
+16039714
+12160
+96914
+17099
+16379419
+12172
+62803
+17117
+16423552
+12264
+97089
+17110
+16542439
+12210
+97700
+17123
+16390145
+12232
+96665
+17137
+16491693
+12211
+62597
+17109
+16127727
+12209
+62858
+Startime: 2018-10-22 15:55:20
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 16:23:06
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17087
+16297577
+12279
+102746
+17056
+15809432
+12237
+97136
+17063
+15036090
+12185
+96835
+17061
+15847943
+12296
+97081
+17299
+16256831
+12240
+99010
+17022
+16498887
+12223
+97800
+17081
+16153494
+12230
+97059
+17085
+15382490
+12316
+92653
+17123
+16261467
+12235
+97744
+17068
+15486043
+12229
+62775
+Startime: 2018-10-22 16:23:06
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 16:50:50
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17301
+15896513
+12225
+97204
+17053
+16178179
+12242
+97374
+17135
+16283657
+12181
+97043
+17139
+16208184
+12209
+102660
+17313
+15863250
+12296
+97093
+17073
+16210708
+12232
+102246
+17308
+16323625
+12222
+97073
+17157
+16285964
+12203
+62531
+17087
+16417389
+12188
+97009
+17236
+16198841
+12227
+97253
+Startime: 2018-10-22 16:50:50
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 17:18:40
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17343
+16251752
+12150
+96470
+17341
+15601467
+12176
+63245
+17138
+16279286
+12325
+97490
+17291
+16331656
+12315
+92541
+17174
+16209392
+12189
+97001
+17099
+16367638
+12247
+62755
+17092
+16590205
+12273
+96658
+17117
+16071513
+12244
+96956
+17158
+16445601
+12193
+63029
+17068
+16481125
+12213
+97045
+Startime: 2018-10-22 17:18:40
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 17:46:36
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17103
+15965013
+12164
+97182
+17157
+16316712
+12255
+62932
+17271
+16419430
+12208
+97160
+17108
+16466133
+12224
+62545
+17104
+15970298
+12303
+98999
+17092
+16471496
+12178
+96926
+17250
+16382060
+12317
+93936
+17296
+16355261
+12242
+96932
+17078
+15818986
+12196
+102730
+17049
+15901197
+12223
+96915
+Startime: 2018-10-22 17:46:36
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 18:14:23
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
+17380
+16304310
+12129
+97225
+17075
+16392759
+12134
+103248
+17155
+16432402
+12355
+97917
+17096
+16042327
+12251
+96972
+17296
+16329092
+12229
+96810
+17298
+16357029
+12262
+97010
+17257
+16338017
+12164
+63012
+17149
+16323026
+12250
+62444
+17095
+16211562
+12143
+97314
+17131
+16268946
+12297
+98193
+Startime: 2018-10-22 18:14:23
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-10-22 18:42:16
+mv: Aufruf von stat für 'nohup.out' nicht möglich: Datei oder Verzeichnis nicht gefunden
+mv: Aufruf von stat für '../runtime_steadystateprocess' nicht möglich: Datei oder Verzeichnis nicht gefunden
