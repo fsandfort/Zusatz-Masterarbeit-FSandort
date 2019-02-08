@@ -1,0 +1,1207 @@
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Steady Thread
+Waiting...
+Start Prog Run
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Steady Thread
+Start Prog Run
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+-----Start-----
+Start Prog Run
+Start Steady Thread
+Waiting...
+Start Steady Test
+getSteadyState
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+compared
+dowhile in Steady done!
+Stahp!
+Steady-State Ende
+Got it!
+RunProg Ende
+Startime: 2018-08-11 14:15:21
+---- Round 0
+---- Round 1
+---- Round 2
+---- Round 3
+---- Round 4
+---- Round 5
+---- Round 6
+---- Round 7
+---- Round 8
+---- Round 9
+Endtime: 2018-08-11 23:22:58
