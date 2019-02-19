@@ -1,0 +1,6 @@
+Informationen zu den Dateien in Verfahren 1
+------------------------------------------------------
+Jede Variante ethält Unterordner für jeden Durchlauf.
+Ergebnisse.txt beinhaltet das Ergebnis, dass das Verfahren ausgibt.
+In Terminalausgabe.txt sind die Terminalausgaben während des Tests vermerkt.
+Testcase_???_Mediane.txt enthält die Mediane der VM-Aufrufe eines Testcases, die zur Berechnung der Laufzeit für den Durchlauf genutzt wurden.
