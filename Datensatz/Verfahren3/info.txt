@@ -1,0 +1,6 @@
+Informationen zu den Dateien in Verfahren 3
+------------------------------------------------------
+Jede Variante ethält Unterordner für jeden Durchlauf.
+Ergebnisse_??? beinhaltet die Ergebnisse der Variante. Die ersten zehn Daten sind die Ergebnisse vom Testcase arraylist in allen Durchgängen. Danach folgt Testcase object in allen Durchläufen, gefolgt von Testcase path in allen Durchläufen und schließlich Testcase hash in allen Durchläufen
+In Terminalausgabe.txt sind die Terminalausgaben während des Tests vermerkt.
+Testcase_???_Laufzeiten.txt enthält alle Laufzeiten eines Testcases in dem entsprechenden Durchlauf, auch die zum Warm-Up genutzten Laufzeiten. Die Zeiten sind chronologisch untereinander verfasst.
